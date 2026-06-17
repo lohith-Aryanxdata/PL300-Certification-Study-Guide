@@ -24,6 +24,15 @@ Whether you are new to Power BI or looking to validate your existing expertise, 
 * [Disclaimer](#disclaimer)
 
 ---
+## Repository Contents
+
+| Resource | Link |
+|-----------|------|
+| Official Microsoft Resources | [Open](./Official-Microsoft-Resources/README.md) |
+| YouTube Resources | [Open](./YouTube-Resources/README.md) |
+| Additional Resources | [Open](./Additional-Resources/README.md) |
+| Datasets | [Open](./Datasets/README.md) |
+---
 
 # What is PL-300?
 
